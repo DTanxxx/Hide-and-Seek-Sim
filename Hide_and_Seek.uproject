@@ -7,7 +7,10 @@
 		{
 			"Name": "Hide_and_Seek",
 			"Type": "Runtime",
-			"LoadingPhase": "Default"
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
 		}
 	]
 }
